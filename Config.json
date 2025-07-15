@@ -1,5 +1,5 @@
 {
   "device": "ESP01",
-  "interval": 15000,
+  "interval": 1000,
   "threshold": 50
 }
